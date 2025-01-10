@@ -53,7 +53,7 @@ namespace MissionPlanner
     {
         private static readonly ILog log =
             LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-
+        //An So It Begins
         public static menuicons displayicons; //do not initialize to allow update of custom icons
         public static string running_directory = Settings.GetRunningDirectory();
 
